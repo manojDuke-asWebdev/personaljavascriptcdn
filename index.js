@@ -1,3 +1,3 @@
 import { shortcutz } from "./Package/ShortCutz";
 
-export const shortcutz = shortcutz 
+export const shortCutz = shortcutz 
